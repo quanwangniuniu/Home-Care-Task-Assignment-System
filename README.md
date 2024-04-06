@@ -19,3 +19,4 @@ It facilitates efficient management of tasks and assignments, ensuring that care
 - **Vue Router**: Vue Router is used for client-side routing, enabling navigation between different pages in the application.
 - **Vuex**: Vuex is utilized for state management, ensuring a centralized store for all application states.
 - **Vite**: The project is set up and built using Vite, a modern build tool for frontend development.
+- **SpringBoot**: The backend is set up by SSM framework through Springboot, capitalized by Idea.
